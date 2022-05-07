@@ -6,4 +6,4 @@
 ## 🇬🇧
 1. What is the name of the country where [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20principale.mp4) got recorded ?
 2. What is the name of the state/region of the country where [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20principale.mp4) got recorded ? This state/region is divided in 3 parts, in which one the video got recorded ?
-3. 3. With the help of [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20secondaire.mp4), where, in  GPS coordinates, got recorded [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20principale.mp4) ?
+3. With the help of [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20secondaire.mp4), where, in  GPS coordinates, got recorded [this video](https://github.com/novitae/Challenges/blob/main/3nBis/video%20principale.mp4) ?
